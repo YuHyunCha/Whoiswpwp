@@ -1,0 +1,73 @@
+*{
+    box-sizing:border-box
+} 
+
+ #Title {
+height: 50px;
+border-bottom-color: gray;
+color:blue;
+text-align: center;
+font-family:"Nanum Myeongjo","NotoSerifWeb","Noto Serif CJK Kr", "Malgun Gothic", sans-serif;
+}
+#img
+{
+    width: 500px;
+    height: 500px;
+    margin-bottom: 15px;
+    float: left;
+}
+button 
+{   margin: auto;
+    width:100px;
+    background-color: #969696;
+    border: none;
+    color:#ffffff;
+    border-radius:10px 10px 10px 10px;
+    padding: 5px 100;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 5px;    
+    cursor: pointer;
+    left: 740px;
+    margin-left: 20px
+}
+#heis {
+text-align: center;
+}
+#box {
+    height: 50px;
+    border-bottom-color: gray;
+}
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    font-family:"Nanum Myeongjo","Cormorant Unicase" ,"Nanum Myeongjo", serif
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+#career {
+    font-size: 20px;
+}
+#ttaom1 {
+    font-size:70px;
+    text-align: center;
+}
+#ttaom2 {
+    font-size:30px;
+    margin-left:50px;
+    text-align: center;
+}
+#said {
+    margin-left: 20px
+}
+#career { 
+    margin-left: 20px
+}
+#mid {
+    text-align: center;
+}
