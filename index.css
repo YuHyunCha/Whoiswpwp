@@ -7,7 +7,7 @@ height: 50px;
 border-bottom-color: gray;
 color:blue;
 text-align: center;
-font-family:"Nanum Myeongjo","NotoSerifWeb","Noto Serif CJK Kr", "Malgun Gothic", sans-serif;
+font-family:"Noto Sans KR","Nanum Myeongjo","NotoSerifWeb","Noto Serif CJK Kr", "Malgun Gothic", sans-serif;
 }
 #img
 {
@@ -44,7 +44,7 @@ body {
     display: flex;
     min-height: 100vh;
     flex-direction: column;
-    font-family:"Nanum Myeongjo","Cormorant Unicase" ,"Nanum Myeongjo", serif
+    font-family:"Noto Sans KR","Nanum Myeongjo","Cormorant Unicase" ,"Nanum Myeongjo", serif
   }
 
   main {
